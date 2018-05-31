@@ -5,7 +5,7 @@
 * Sends the url to parse, analyze html page and generates data for the base.
 * 
 * @author Patenko patenkoss@gmail.com
-* check Name3
+* check Name4
 */
 class Rozetka {
     /**
